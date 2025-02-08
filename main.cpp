@@ -9,11 +9,11 @@ int main()
     do{
         system("cls");
         cout<< endl;
-        cout<< "1.- Simple text edit" <<endl;
+        cout<< "1.- Tic-Tac-Toe" <<endl;
         cout<< "2.- Bank Managment System" <<endl;
         cout<< "3.- Library Managment System" <<endl;
         cout<< "4.- Custom shell" <<endl;
-        cout<< "5.- Tic-Tac-Toe" <<endl;
+        cout<< "5.- Simple text edit" <<endl;
         cout<< "6.- Mini Calculator" <<endl;
         cout<< "7.- File Compression tool" <<endl;
         cout<< "8.- Employee record system" <<endl;
@@ -38,7 +38,7 @@ int main()
                     optionChar = ' ';
                 } else{
                 }
-                cout<< "Exiting..." <<endl;
+                cout<< "\tExiting..." <<endl;
                 break;
             case 1:
                 cout<< "Entring in Simple text edit..." <<endl;
