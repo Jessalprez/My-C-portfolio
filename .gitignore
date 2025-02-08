@@ -1,0 +1,7 @@
+# Archivos generados por Code::Blocks
+*.layout
+*.depend
+
+# Carpetas de compilación
+bin/
+obj/
